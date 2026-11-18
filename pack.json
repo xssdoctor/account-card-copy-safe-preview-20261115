@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "name": "reader-card-preview",
+  "displayName": "Reader Card Preview",
+  "description": "Validate and render the archived reader-card sample for documentation",
+  "preview": "assets/previews/reader-card-scan.pcd",
+  "install": {
+    "command": "make install",
+    "networkRequired": false
+  }
+}
